@@ -155,11 +155,8 @@ namespace Dynamic.Query.Helper
                     }
 
                     _returnValue.Add(item);
-                }
-                
-
+                }                
                 return _returnValue;
-
             }
             catch (DynamicException e)
             {

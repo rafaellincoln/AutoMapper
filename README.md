@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/rafaellincoln/Dynamic-Query.png?label=ready&title=Ready)](https://waffle.io/rafaellincoln/Dynamic-Query)
 Dynamic-Query
 =============
 
